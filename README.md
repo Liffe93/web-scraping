@@ -41,5 +41,12 @@ With:
     - `find_elements_by_xpath`
    
   [Documentation here.](https://selenium-python.readthedocs.io/locating-elements.html)
+
+## Next Steps
+- Learn how API works.
+- Search for Data Structures in Python.
+- Learn JSON.
+- Feel free to build your own API to work with Web Scraping. 
+
 ## Author
 - **Murilo Carlos** - Inspired by Código Fonte TV
